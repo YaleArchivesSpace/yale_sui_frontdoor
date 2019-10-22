@@ -7,7 +7,7 @@ en:
       <p>There is a Yale listserv for ArchivesSpace users. <a href='http://mailman.yale.edu/mailman/listinfo/yulaspace'>Please join</a>!</p>
       <p>To create an account in ArchivesSpace, please follow <a href='http://guides.library.yale.edu/c.php?g=296249&p=4694567'>these instructions</a>.</p>
     message_logged_in: |
-      <p>ArchivesSpace is the repository of record for many collections at Yale's special collections libraries. Oversight for policies around ArchivesSpace and for user training is managed by the <a href='http://guides.library.yale.edu/archivesspace/members'>Yale Archival Management Systems Committee</a>.</p>
+      <p>ArchivesSpace is the repository of record for many collections at Yale's special collections libraries. Oversight for policies around ArchivesSpace and for user training is managed by the <a href='http://guides.library.yale.edu/archivesspace'>Yale Archival Management Systems Committee</a>.</p>
       <p>The <a href='https://docs.google.com/document/d/1DI_7YNZy-RcjQ9hpMMbxJEkHFpYndzmDoG3ylOc38BY/edit?usp=sharing'>training manual</a> for ArchivesSpace is available online as a Google document. Please don't hesitate to contact the committee and leave a comment on this document if something is unclear to you.</p>
       <p>Training videos for various ArchivesSpace functions are <a href='http://guides.library.yale.edu/c.php?g=296249&p=3001520'>available here</a>. Our library of training videos is actively growing!</p>
       <p>There is a Yale listserv for ArchivesSpace users. <a href='http://mailman.yale.edu/mailman/listinfo/yulaspace'>Please join</a>!</p>
